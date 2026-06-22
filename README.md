@@ -38,5 +38,5 @@ Dense(10)
 ## Results
 | Metric | Value |
 |----------|----------|
-| Test Accuracy | 99.52% |
-| Wrong Predictions | 76 / 16000 |
+| Test Accuracy | 99.56% |
+| Wrong Predictions | 70 / 16000 |
