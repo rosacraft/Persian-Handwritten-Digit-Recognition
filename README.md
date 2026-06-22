@@ -11,7 +11,7 @@ A deep learning project for recognizing Persian handwritten digits using Convolu
 - Early stopping to prevent overfitting
 
 ## Technologies Used
-- Python
+- Python 3.13
 - TensorFlow / Keras
 - OpenCV
 - NumPy
@@ -40,21 +40,3 @@ Dense(10)
 |----------|----------|
 | Test Accuracy | 99.52% |
 | Wrong Predictions | 76 / 16000 |
-
-## Installation
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-Run the notebook:
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-```text
-main.ipynb
-```
